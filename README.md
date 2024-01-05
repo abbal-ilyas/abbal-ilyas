@@ -35,6 +35,11 @@ Here are some technologies and tools that I'm familiar with:
 ![Java SE](https://img.shields.io/badge/Java%20SE-007396?style=flat&logo=java&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-0081C6?style=flat&logo=gns3&logoColor=white)
+
 
 ## 🌱 What I'm Currently Learning
 
