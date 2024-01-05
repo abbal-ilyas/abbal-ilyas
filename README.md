@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @abbal-ilyas
-- 👀 I’m interested in software engineering and Cyber security
-- I’m Master’s Student in Computer Engineering
 
-- # Hi there, I'm [Your Name]! 👋
-
+- # Hi there, I'm [ILYAS ABBAL]! 👋
+- - I’m Master’s Student in Computer Engineering
+- - 👀 Call Me Elias
 I'm a passionate Computer Engineering student, always eager to learn and explore new technologies. Welcome to my GitHub profile!
 
 ## 🚀 Quick Overview
