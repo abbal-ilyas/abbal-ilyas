@@ -17,7 +17,8 @@
 
 Here are some technologies and tools that I'm familiar with:
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-000000?style=flat&logo=lombok&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-000000?style=flat&logo=jpa&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
