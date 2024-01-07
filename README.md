@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning [Spring boot]
 - 👯 I’m looking to collaborate on [Open Source Projects]
 - 💬 Ask me about [Anything Tech-Related]
-- 📫 How to reach me: [ilyas.abba10@gmail.com]
+- 📫 How to reach me: [ilyas.abbal10@gmail.com]
 - 😄 Pronouns: [He/Him]
 
 ## 🔧 Technologies & Tools
@@ -56,7 +56,7 @@ Here are some of the projects I've worked on:
 
 ## 📫 Let's Connect
 
-Feel free to reach out to me via email at [ilyas.abba10@gmail.com]. Let's connect and explore the world of technology together!
+Feel free to reach out to me via email at [ilyas.abbal10@gmail.com]. Let's connect and explore the world of technology together!
 
 ## 🎉 Thank You for Visiting
 
