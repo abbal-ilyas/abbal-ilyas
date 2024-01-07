@@ -1,6 +1,6 @@
 
 - # Hi there, I'm [ILYAS ABBAL]! 👋
-- - I’m Master’s Student in Computer Engineering
+- - I’m Master’s Student in Software Engineering
 - - 👀 Call Me Elias
 - - I'm a passionate Computer Engineering student, always eager to learn and explore new technologies. Welcome to my GitHub profile!
 
