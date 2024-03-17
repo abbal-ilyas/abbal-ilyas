@@ -18,7 +18,7 @@
 Here are some technologies and tools that I'm familiar with:
 
 [![CCNA](https://img.shields.io/badge/CCNA-0078D4?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 ![Lombok](https://img.shields.io/badge/Lombok-000000?style=flat&logo=lombok&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-000000?style=flat&logo=jpa&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
