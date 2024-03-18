@@ -6,8 +6,8 @@
 
 ## 🚀 Quick Overview
 
-- 🔭 I’m currently working on [ web app]
-- 🌱 I’m currently learning [Spring boot]
+- 🔭 I’m currently working on [self growth - tech studies]
+- 🌱 I’m currently learning [Spring boot - cloud - data mining]
 - 👯 I’m looking to collaborate on [Open Source Projects]
 - 💬 Ask me about [Anything Tech-Related]
 - 😄 Pronouns: [He/Him]
