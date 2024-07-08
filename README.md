@@ -50,9 +50,7 @@ I'm currently focused on improving my skills in [Spring boot/Framework]. Learnin
 
 ## 🚀 Projects
 
-Here are some of the projects I've worked on:
-
-- [Project 1](Evaluations metrics implementation)
+Check my repositories!!
 
 
 ## 📫 Let's Connect
