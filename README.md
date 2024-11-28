@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ilyas Abbal 👋</h1>
 <h3 align="center">A Master’s Student in Software Engineering | Passionate Full-Stack Developer 🚀</h3>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400">
+<img align="right" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://dribbble.com/shots/6540901-Programmer?utm_source=Clipboard_Shot&utm_campaign=aldisolihin&utm_content=Programmer&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=aldisolihin&utm_content=Programmer&utm_medium=Social_Share)" alt="Coding" width="400">
 
 ## 👨‍💻 About Me
 - 🌟 **Nickname:** Elias  
@@ -41,13 +41,6 @@
 - 🌱 Learning **Cloud Computing** and **Advanced Data Structures**  
 - 🧠 Exploring **AI integration** for future projects  
 
----
-
-## 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abbalilyas&show_icons=true&theme=radical" alt="GitHub stats" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbalilyas&layout=compact&theme=radical" alt="Top Langs" width="400">
-</p>
 
 ---
 
