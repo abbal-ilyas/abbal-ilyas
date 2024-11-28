@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **ilyas.abbal10@gmail.com**
 
-## 🚀 Technologies & Tools
+# 🚀 Technologies & Tools
 
 Here are some technologies and tools that I’m familiar with:
 
