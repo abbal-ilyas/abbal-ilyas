@@ -1,20 +1,22 @@
+<h1 align="center">Hi 👋, I'm ILYAS ABBAL</h1>
+<h3 align="center">Master's Student in Software Engineering</h3>
+<img alt="Coding" align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- # Hi there, I'm [ILYAS ABBAL]! 👋
-- - I’m Master’s Student in Software Engineering
-- - 👀 Call Me Elias
-- - I'm a passionate Computer Engineering student, always eager to learn and explore new technologies. Welcome to my GitHub profile!
+- 👀 Call Me Elias
 
-## 🚀 Quick Overview
+- 🔭 I’m currently working on **self-growth and tech studies**
 
-- 🔭 I’m currently working on [self growth - tech studies]
-- 🌱 I’m currently learning [Spring boot - cloud - data mining]
-- 👯 I’m looking to collaborate on [Open Source Projects]
-- 💬 Ask me about [Anything Tech-Related]
-- 😄 Pronouns: [He/Him]
-https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966
-## 🔧 Technologies & Tools
+- 🌱 I’m currently learning **Spring Boot, Cloud, Data Mining**
 
-Here are some technologies and tools that I'm familiar with:
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **Spring, Java, Docker, SQL, NoSQL**
+
+- 📫 How to reach me: **ilyas.abbal10@gmail.com**
+
+## 🚀 Technologies & Tools
+
+Here are some technologies and tools that I’m familiar with:
 
 [![CCNA](https://img.shields.io/badge/CCNA-0078D4?style=flat&logo=cisco&logoColor=white)](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
@@ -42,28 +44,18 @@ Here are some technologies and tools that I'm familiar with:
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 
-
 ## 🌱 What I'm Currently Learning
 
-I'm currently focused on improving my skills in [Spring boot/Framework]. Learning is a lifelong journey, and I'm excited about the possibilities that technology brings.
+I’m currently focused on improving my skills in **Spring Boot and Cloud Technologies**. Learning is a lifelong journey, and I’m excited about the possibilities that technology brings.
 
 ## 🚀 Projects
 
-Check my repositories!!
+Check out my repositories!
 
+## 📫 Let’s Connect
 
-## 📫 Let's Connect
-
-Feel free to reach out to me via email at [ilyas.abbal10@gmail.com]. Let's connect and explore the world of technology together!
+Feel free to reach out via email at **ilyas.abbal10@gmail.com**. Let’s connect and explore the world of technology together!
 
 ## 🎉 Thank You for Visiting
 
-Thank you for taking the time to explore my GitHub profile. If you find something interesting or have any suggestions, feel free to reach out. Happy coding!
-
-    
-
-
-
-
-
-
+Thank you for exploring my GitHub profile. If you find something interesting or have suggestions, feel free to reach out. Happy coding!
