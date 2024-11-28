@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Ilyas Abbal 👋</h1>
 <h3 align="center">A Master’s Student in Software Engineering | Passionate Full-Stack Developer 🚀</h3>
 
-<img align="right" src="https://dribbble.com/shots/6540901-Programmer" alt="Coding" width="400">
+<img align="right" src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" alt="Coding" width="400">
 
 ## 👨‍💻 About Me
 - 🌟 **Nickname:** Elias  
